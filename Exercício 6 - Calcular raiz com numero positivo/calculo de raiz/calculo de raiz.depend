@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542326663 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 2 dia 06.11.18 exercícios de estruturas de repetição\exercício 6 - calcular raiz com numero positivo\calculo de raiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

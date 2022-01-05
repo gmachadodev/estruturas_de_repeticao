@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542327943 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 2 dia 06.11.18 exercícios de estruturas de repetição\exercício 7 - processo de impressao de numero digitado ate digitar zero\zero\main.c
+	<stdio.h>
+	<stdlib.h>
+

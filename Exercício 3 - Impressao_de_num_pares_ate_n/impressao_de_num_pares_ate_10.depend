@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541550326 source:c:\users\gabriel\desktop\lógica e algoritmos\codigos_em_c\impressao_de_num_pares_ate_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

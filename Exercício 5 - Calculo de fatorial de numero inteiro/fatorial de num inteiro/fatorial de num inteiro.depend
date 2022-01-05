@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542325691 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 2 dia 06.11.18 exercícios de estruturas de repetição\exercício 5 - calculo de fatorial de numero inteiro\fatorial de num inteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+

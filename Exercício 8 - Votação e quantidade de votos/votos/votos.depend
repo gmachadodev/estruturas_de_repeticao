@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543357352 source:c:\users\gabriel\desktop\ifsul\lógica e programação - apostilas\exercícios realizados\aula 2 dia 06.11.18 exercícios de estruturas de repetição\exercício 8 - votação e quantidade de votos\votos\main.c
+	<stdio.h>
+	<stdlib.h>
+
