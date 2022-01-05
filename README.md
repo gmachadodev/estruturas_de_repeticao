@@ -10,7 +10,7 @@ Enunciados dos exercícios:
 
 1) Dadas as idades dos pacientes de uma clínica, informe a idade daquele mais idoso. Considere que todas as idades são distintas e que o número de pacientes é informado pelo usuário, no momento da execução do programa.
 
-2) Mostrar na tela os números de 1 a 10.
+2) Mostrar na tela os números de 1 a 10. (Não foi adicionado, pois se faz necesário apenas um laço de repetição que se estenda 10x incrementando 1 em uma mesma variável)
 
 3) Mostrar na tela os números pares de 1 a N, sendo N informado pelo usuário.
 
