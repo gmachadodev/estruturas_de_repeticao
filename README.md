@@ -20,6 +20,6 @@ Enunciados dos exercícios:
 
 6) Escreva um programa para calcular a raiz quadrada de um número. O usuário deve informar o número a ter sua raiz quadrada calculada e só deve aceitar números positivos. Caso o usuário digite um número negativo, o programa pede um novo número.
 
-7) Receber um número, indicar se este número é positivo ou negativo e repetir estes passos até que o usuário entre com o número 0 (neste caso, o programa encerra).
+7) Receber um número, indicar se este número é positivo ou negativo e repetir estes passos até que o usuário entre com o número 0 (neste caso, o programa encerra). (Este exercício possui duas alternativas, uma que apenas imprime o numero em um dos códigos, e outra que imprime o número e fala se é positivo ou negativo. Ambas fecham o programa quando digitdo 0)
 
 8) Numa eleição existem três candidatos identificados pelos números 1, 2 e 3. Faça um algoritmo que compute o resultado de uma eleição. Inicialmente o programa deve pedir o número total de votantes. Em seguida, deve pedir para cada votante votar (informando o número do candidato) e ao final mostrar o número de votos de cada candidato.
